@@ -10,7 +10,7 @@ class player{
      player(){
         player_name="shreya";
         address="mapusa,goa";
-        age=20;
+        age=23;
         height=157;
         countobj++;
 
